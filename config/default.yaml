@@ -1,0 +1,4 @@
+fps: auto
+keep_intermediate_files: true
+output_codec: libx264
+output_pix_fmt: yuv420p
